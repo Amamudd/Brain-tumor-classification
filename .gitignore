@@ -1,0 +1,11 @@
+# big folders and files that should not go on GitHub
+feature_cache/
+*.npz
+
+# notebook and python junk
+.ipynb_checkpoints/
+__pycache__/
+
+# dataset (add the name of your dataset folder if it is ever copied here)
+data/
+dataset/
